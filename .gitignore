@@ -1,0 +1,8 @@
+venv/
+venv
+venv/.
+
+.dockerignore
+_pycache_/
+_pycache_/.
+_pycache_

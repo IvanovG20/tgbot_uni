@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+
+  bot:
+    image: tagiil7/tgbot_foruni:latest
+    container_name: telegram_bot
+    env_file: ./.env
